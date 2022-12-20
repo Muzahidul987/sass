@@ -1,4 +1,5 @@
 .flag {
+    font-family: sans-serif;
 
     .rectangular {
         background-color: green;
@@ -30,6 +31,7 @@
         &:hover {
             cursor: pointer;
             background-color: rgb(100, 4, 30);
+            font-size: 30px;
         }
     }
 }

@@ -1,3 +1,6 @@
+.flag {
+  font-family: sans-serif;
+}
 .flag .rectangular {
   background-color: green;
   width: 200px;
@@ -26,6 +29,7 @@
 .flag button:hover {
   cursor: pointer;
   background-color: rgb(100, 4, 30);
+  font-size: 30px;
 }
 
 /*# sourceMappingURL=scss_style.css.map */
