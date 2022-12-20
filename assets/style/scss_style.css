@@ -15,5 +15,17 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+.flag button {
+  border-radius: 20px;
+  background-color: rgb(28, 28, 152);
+  padding: 10px 30px;
+  border: unset;
+  color: white;
+  text-decoration: none;
+}
+.flag button:hover {
+  cursor: pointer;
+  background-color: rgb(100, 4, 30);
+}
 
 /*# sourceMappingURL=scss_style.css.map */
