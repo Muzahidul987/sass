@@ -1,0 +1,26 @@
+{
+  "name": "scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass assets/scss/style.scss assets/style/scss_style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muzahidul987/sass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muzahidul987/sass/issues"
+  },
+  "homepage": "https://github.com/Muzahidul987/sass#readme",
+  "devDependencies": {
+    "postcss": "^8.4.20",
+    "postcss-cli": "^10.1.0",
+    "postcss-preset-env": "^7.8.3"
+  }
+}
